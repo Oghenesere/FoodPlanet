@@ -1,0 +1,121 @@
+body{
+    background-color: wheat;
+    width: 100%;
+}
+/*to put your logo before your company name just use the img code*/
+header{
+    background-color: violet;
+    color: tomato;
+    padding: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+ text-transform: capitalize;
+ margin: 5px;
+ text-align: center;
+ font: Large;
+}
+
+h2{
+    margin: 5px;
+    text-align: center;
+   }
+
+nav{
+ background-color: brown; 
+ text-transform: capitalize;
+ text-align: center;
+ width: 100%;  
+}
+
+ul, li {
+background-color: crimson;
+text-transform: capitalize;
+}
+p{
+    margin:0px;
+}
+
+a:link, a:visited{
+    background-color: darkmagenta;
+    color: darksalmon;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+a:hover{
+    background-color: darkslateblue;
+    color:deeppink;
+}
+
+footer{
+    clear: both;
+    text-transform: capitalize;
+    text-align:center;
+    background-color: deeppink;
+    color:gold
+}
+
+input.about_us_input{
+width: 100%;
+padding: 1px;
+margin: 5px
+}
+
+.submit:hover{
+    color:green;
+    cursor:hotpink;
+}
+
+.submit{
+    width:auto;
+    padding: 5px;
+    margin: 4px ;
+}
+.textarea{
+    padding:12px x 10px;
+}
+
+.img{
+    width:250px;
+    height:100px;
+    margin: 2rem;
+    border-radius:10px;
+    padding: 7px;
+}
+table {
+    width: 100%;
+    border: 2px;
+    border-collapse: collapse;
+}
+th, td {
+    text-align: left;
+    padding: 7px;
+}
+tr:nth-child(even){
+    background-color: chocolate;
+}
+.submit{
+    width: 100%;
+    padding: 4px;
+}
+.submit:hover {
+    background-color: blue;
+    cursor: pointer;
+}
+.meal type{
+
+}
+.contact {
+    width: 80%;
+    height: 280 px;
+    background-color: purple;
+    margin: 2rem;
+    padding: 1rem;
+    text-align: center;
+}
+.home{
+    background-color: green;
+
+}
